@@ -8,7 +8,7 @@ BB=$fg_bold[blue]
 RESET=$reset_color
 
 function prompt_char {
-    git branch >/dev/null 2>/dev/null && echo '<' && return
+    git branch >/dev/null 2>/dev/null && echo '>' && return
     hg root >/dev/null 2>/dev/null && echo 'Hg' && return
     echo '#'
 }
