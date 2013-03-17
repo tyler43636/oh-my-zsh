@@ -4,3 +4,5 @@ _1st_arguments=(
 	'--calculate-average:Print the average of the listed statistics files and exit'
 	'--check-destination-dir:Checks for failed directory and discards it in favor of new backup'
 )
+
+local expl
