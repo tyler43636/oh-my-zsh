@@ -1,0 +1,6 @@
+local -a _1st_arguments
+_1st_arguments=(
+	'--backup-mode:Force backup mode even if first argument appears to be an increment or mirror file'
+	'--calculate-average:Print the average of the listed statistics files and exit'
+	'--check-destination-dir:Checks for failed directory and discards it in favor of new backup'
+)
