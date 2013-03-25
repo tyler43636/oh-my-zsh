@@ -90,6 +90,8 @@ Thank you so much!
 
 h2. Plugins
 
-For information on writing new completion plugins, please visit the ZSH documentation.
+For information on writing new plugins, please visit the ZSH documentation.
+* http://zsh.sourceforge.net/Doc/Release/zsh_toc.html
 
+Or jump strait to the auto completion docs.
 * http://zsh.sourceforge.net/Doc/Release/Completion-System.html#Completion-System
